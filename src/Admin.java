@@ -1,6 +1,6 @@
 
 public class Admin {
-	private String id = "123";
+	private String id = "admin";
 	private String pw = "123";
 	private boolean isLogIn = false;
 
