@@ -46,4 +46,4 @@ git clone https://github.com/namsu-k/BookMarketGUI.git
 
 ### 주의사항
 
-- 관리자 로그인에 필요한 아이디와 비밀번호는 `Admin.class` 에 정의되어 있습니다.
+- 관리자 로그인에 필요한 아이디와 비밀번호는 `Admin.java` 에 정의되어 있습니다.
